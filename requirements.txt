@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sqlalchemy
+psycopg2-binary
+pyspark
+kafka-python
+snowflake-connector-python
+streamlit
+pyyaml
+jupyter
